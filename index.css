@@ -1,0 +1,12 @@
+ul .menu-item
+{
+    text-align: center;
+    list-style-type: none;
+    float: left;
+    margin-left: 20px;
+    font-size: 50px;
+}
+.menu-link {
+    color: azure;
+    text-decoration: none;
+}
