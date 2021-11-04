@@ -10,3 +10,7 @@ ul .menu-item
     color: azure;
     text-decoration: none;
 }
+.menu-item:hover
+{
+    background-color:rgb(145, 177, 238);
+}
